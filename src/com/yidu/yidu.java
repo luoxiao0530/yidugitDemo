@@ -8,6 +8,6 @@ package com.yidu;
  */
 public class yidu {
     public static void main(String[] args) {
-        System.out.println("一度教育");
+        System.out.println("一度教育，做得更好！");
     }
 }

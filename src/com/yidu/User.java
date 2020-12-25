@@ -9,6 +9,6 @@ package com.yidu;
 public class User {
     public static void main(String[] args) {
         System.out.println("老杂鱼竟在我身边");
-        System.out.println("滚吧杂种");
+        System.out.println("一一一");
     }
 }

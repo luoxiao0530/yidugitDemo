@@ -8,7 +8,7 @@ package com.yidu;
  */
 public class User {
     public static void main(String[] args) {
-        System.out.println("罗啸臭傻逼");
+        System.out.println("User");
         System.out.println("滚吧杂种");
     }
 }
